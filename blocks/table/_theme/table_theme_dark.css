@@ -1,4 +1,5 @@
 .table_theme_dark {
   list-style-type: none;
   padding: 80px 0 0 0;
+  row-gap: 80px;
 }

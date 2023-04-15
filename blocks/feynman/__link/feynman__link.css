@@ -6,8 +6,8 @@
   font-weight: normal;
   position: absolute;
   top: 50%;
-  right: 0;
-  padding-right: 48px;
+  padding: 0;
+  right: 48px;
   opacity: 1;
   transition: opacity 0.3s ease-out;
 }
